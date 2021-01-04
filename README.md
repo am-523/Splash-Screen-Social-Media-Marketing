@@ -35,7 +35,7 @@ Splash Screen UI</h3>
 
 
 ## Tutorial 📸
-- <a href="https://youtu.be/wpgtjDNT4hY">
+- <a href="https://youtu.be/ho5lwSCxCmU">
 			Youtube
 		</a> 
 
